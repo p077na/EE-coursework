@@ -1,7 +1,5 @@
 # EE-coursework
 
-# EE-coursework
-
 This repository is created and maintained by **Polina Yakovenko** as a public archive of knowledge gained during the undergraduate program in **Electrical Engineering**.
 
 The content is organized by semester and subject, and each folder contains study materials including **theory summaries**, **problem-solving strategies**, **worked examples**, and **solutions**.
