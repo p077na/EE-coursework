@@ -11,6 +11,8 @@ All materials are based on my personal understanding of the topics, supported by
 **Language notice:** While the majority of the material in this repository is written in English, some documents may appear in Spanish, the official language of the coursework.
 > If you require clarification or a translation of any content, you are welcome to open an issue or contact me directly. I will be glad to assist.
 
+> _"But few things are needed—or indeed only one. Mary has chosen what is better, and it will not be taken away from her."_  
+> — Luke 10:42 (NIV)
 
 ---
 
