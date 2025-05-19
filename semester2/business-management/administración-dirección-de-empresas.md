@@ -169,7 +169,7 @@ Ventajas:
 
 Dificultades:
 * Asume todo el riesgo
-* Es difícil conseguir financiación para crecer (los bancos prefieren empresas más grandes).
+* Es difícil conseguir financiación para crecer (los bancos prefieren empresas más grandes)
 * Puede ser complicado sobrevivir
 
 ### Sociedad colectiva
