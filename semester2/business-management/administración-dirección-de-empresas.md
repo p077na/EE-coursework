@@ -40,6 +40,7 @@ Al principio, los economistas clásicos como Adam Smith pensaban que el empresar
 Pero con el paso del tiempo, las empresas empezaron a crecer y a complicarse. Entonces la gente se dio cuenta de algo importante:
 → Ser propietario y ser quien dirige la empresa no es lo mismo.
 Así que se empezó a distinguir entre dos papeles:
+
 - El propietario: quien pone el dinero.
 - El empresario: quien toma decisiones y organiza todo para que funcione.
 
@@ -50,14 +51,18 @@ Así que se empezó a distinguir entre dos papeles:
 **Agente organizador**: el empresario organizador se ve como un agente económico cuya función principal es organizar, planificar y combinar los factores productivos con el objetivo de satisfacer las necesidades del sector de consumo. Es elegido por su capacidad y experiencia, no por ser el propietario del capital. Asume un riesgo profesional (relacionado con el éxito o fracaso de su gestión), pero no patrimonial (no arriesga su propio dinero necesariamente). Se convierte en la "mano visible" que guía y coordina el funcionamiento del sector productivo.
 
 Desde el siglo XIX, en las grandes empresas comenzó a separarse la figura del:
+
 - Propietario (quien pone el capital)
 - Director o gestor (quien organiza y toma decisiones)
+
 Esto da lugar a la figura del empresario organizador, cuya función no es aportar dinero, sino gestionar de forma eficiente los recursos disponibles.
 
 **Empresario de riesgo de Knight**: Según Knight no se puede ser empresario sin asumir riesgos. La razón es que el empresario tiene que pagar los factores productivos para poder producir bienes y servicios (pago de salarios, de materias primas, de máquinas etc.). Sin embargo, el empresario no sabe con certeza si podrá vender sus productos, ya que la demanda nunca puede preverse con exactitud.
+
 Por tanto, el empresario está asumiendo un riesgo, ante la posibilidad de perder parte o todo su dinero aportado. Así, para Knight, el beneficio es la recompensa por asumir ese riesgo.
 
 El riesgo técnico se refiere a los posibles problemas o dificultades que pueden surgir durante el desarrollo de un producto o servicio. Esto puede incluir: Problemas con la tecnología o el equipo utilizado, fallos en los sistemas o procesos.
+
 El riesgo económico se refiere a las posibles pérdidas financieras que puede enfrentar un empresario. Esto puede ser causado por: cambios en el mercado o en la economía en generalñ competencia en el mercado.
 
 **Empresario innovador de Schumpeter**: Schumpeter consideraba que ser empresario era ser innovador, es decir, inventar un nuevo producto o una nueva forma de producir. Para Schumpeter, el empresario es el motor del cambio tecnológico y del crecimiento de la economía, ya que provoca continuas innovaciones que hacen mejorar la economía.
@@ -69,6 +74,7 @@ Innovación -> Monopolio, ventaja competitiva -> Beneficio -> Imitacion de innov
 El beneficio es por tanto la recompensa que percibe el empresario por su aportación al progreso tecnológico y crecimiento económico.
 
 **Posición de Barre:** Según Reymond Barre, el empresario cumple con 3 funciones principales:
+
 1. Organizador de la producción
 2. Asumidor de riesgos
 3. Figura de autoridad
@@ -83,6 +89,7 @@ El beneficio es por tanto la recompensa que percibe el empresario por su aportac
 
 ### Según el Sector Económico
 Los sectores económicos se dividen en tres categorías principales:
+
 Sector	| Actividades	| Ejemplo de empresas
 --------|-------------|--------------------
 Primario	| Obtención de recursos naturales y materias primas.	| Agricultura, pesca, minería, ganadería.
@@ -91,6 +98,7 @@ Terciario	| Venta de bienes y prestación de servicios.	| Comercio, turismo, tra
 
 ### Segun tamaño
 Esta clasificación se basa en tres indicadores principales: Número de empleados, Volumen de negocio (ingresos anuales), Balance general (valor total de activos y pasivos)
+
 Tamaño	| Nº de trabajadores	| Volumen de negocio | Balance general
 --------|---------------------|--------------------|---------------
 Grandes empresas	| Más de 250	| Más de 50M€	| Más de 43M€
@@ -128,27 +136,33 @@ Monoplanta: una sola sede o instalación de producción; Multiplanta: varias est
 
 ### Según Forma jurídica
 Empresa Individual - Propiedad de una sola persona física.
+
 Sociedad (Empresas con varios propietarios)
+
 • Formada por dos o más personas físicas y/o jurídicas
 • Aportaciones de sus socios al capital social de la empresa (bienes, derechos y/o dinero)
 • Según el tipo de forma societaria diferentes requisitos formales, derechos y deberes y forma de transmisión participaciones/acciones
 • Propiedad puede ser distinta de la dirección y control
 
 Ventajas frente a las individuales:
+
 - Limitación de la responsabilidad
 - Diversificación de los riesgos
 - Especialización de las funciones
 
 Dificultades:
+
 -Requisitos mínimos de capital social inicial para su constitución en algunas sociedades
 
 1.	Sociedades Personalistas: Lo más importante son las personas que forman la sociedad, no solo el dinero que aportan.
+
 *	La gestión está en manos de los socios, que participan activamente.
 *	Los socios responden con su patrimonio personal si hay deudas.
 *	Son comunes en pequeños negocios familiares o profesionales.
 *	_Sociedad colectiva; Sociedad comanditaria_
 
 2.	Sociedades Capitalistas/Mercantiles: Aquí lo más importante no son los socios, sino el capital que aportan.
+
 *	Los socios no responden con su patrimonio personal, solo con lo que han invertido.
 *	Son las más utilizadas en grandes empresas.
 *	_Sociedades comanditaria por acciones; Sociedad de responsabilidad limitada (SL); Sociedad anónima (SA)_
@@ -159,21 +173,26 @@ Dificultades:
 ## Tipos de Empresas 
 ### Empresa individual o Empresario individual (autónomo)
 Una sola persona crea y dirige un negocio en su propio nombre. No hay socios, no hay separación legal entre la persona y la empresa: tú eres la empresa.
+
 * El empresario toma decisiones, dirige, y asumes riesgos.
 * No se necesita un capital mínimo para empezar.
 * Pero si hay deudas, responde con todo su patrimonio personal (responsabilidad ilimitada).
 
 Ventajas:
+
 * Puede decidir rápido y adaptarse fácilmente.
 * No depende de nadie 
 
 Dificultades:
+
 * Asume todo el riesgo
 * Es difícil conseguir financiación para crecer (los bancos prefieren empresas más grandes)
 * Puede ser complicado sobrevivir
 
 ### Sociedad colectiva
+
 Es un tipo de sociedad mercantil donde los propios socios gestionan la empresa. Es una forma tradicional y muy ligada a la confianza entre los socios.
+
 * Sociedad personalista: Lo importante no es tanto el capital que aporta cada socio, sino la persona. La relación entre socios es clave.
 * Propiedad = dirección: Los mismos socios que son dueños, también dirigen y gestionan la empresa.
 * Mínimo 2 socios: No puede constituirse con una sola persona.
@@ -184,6 +203,7 @@ Es un tipo de sociedad mercantil donde los propios socios gestionan la empresa. 
 * Nombre de la sociedad: Debe incluir el nombre de todos los socios, alguno de ellos o solo uno, seguido de: “y Compañía” o “y Cía.”, y las siglas o nombre “Sociedad Colectiva” o “S.C.”
 
 Una Sociedad Colectiva es adecuada para:
+
 * Pequeños negocios tradicionales, como empresas familiares o asociaciones profesionales
 * Situaciones en las que los socios se conocen bien y hay una gran confianza mutua.
 * Negocios que no requieren grandes inversiones y que se basan más en las habilidades, el trabajo directo y la implicación personal de los socios.
@@ -195,6 +215,7 @@ Es una sociedad personalista, como la colectiva, pero en la que conviven dos tip
 * Socios comanditarios: no participan en la gestión. Solo aportan capital (dinero o bienes). Tienen responsabilidad limitada: solo pueden perder lo que invirtieron, no su patrimonio personal.
 
 Otras características:
+
 * Se requieren mínimo dos socios (uno colectivo y uno comanditario, como mínimo).
 * No hay capital mínimo.
 * La condición de socio no se puede transmitir libremente. Es decir, no se puede vender o ceder la participación sin acuerdo de los demás.
@@ -215,12 +236,14 @@ Es una variante de la sociedad comanditaria, pero adaptada al modelo de grandes 
 
 
 Una empresa puede optar por esta sociedad cuando:
+
 * Se quiere captar inversores que solo aporten dinero, sin involucrarlos en la gestión.
 * Se necesita gran capital y se planea una estructura similar a una sociedad anónima, pero manteniendo uno o más socios con control total de la gestión.
 * Se busca una estructura flexible para financiarse pero con un control centralizado.
 
 
 ### Sociedad limitada
+
 Es una forma jurídica de empresa muy común en España, especialmente entre pequeñas y medianas empresas (pymes). 
 
 * Es una sociedad capitalista: lo que importa es el capital aportado, no tanto la identidad de los socios.
@@ -234,6 +257,7 @@ Es una forma jurídica de empresa muy común en España, especialmente entre peq
 Es ideal para quienes quieren limitar su riesgo personal, para quienes no necesitan una gran estructura empresarial, y para emprendedores que quieren iniciar su empresa con poco capital gracias a la nueva ley.
 
 ### Sociedad Anónima
+
 Es una forma jurídica pensada para grandes empresas o aquellas que necesitan atraer capital externo, incluso mediante bolsa. Es muy común en grandes corporaciones.
 
 * Es una sociedad capitalista, donde lo más importante es el capital aportado, no quiénes son los socios.
@@ -247,6 +271,7 @@ Es una forma jurídica pensada para grandes empresas o aquellas que necesitan at
 * Al menos el 51% del capital está en manos de los trabajadores socios.
 
 ### Cooperativas
+
 Son empresas de economía social, que se crean con el objetivo de satisfacer las necesidades económicas y sociales de sus socios y contribuir al progreso colectivo. No están enfocadas en el lucro individual, sino en el interés común de quienes las integran.
 
 * Sociedad de economía social: busca un equilibrio entre la actividad económica y la finalidad social.
@@ -257,16 +282,19 @@ Son empresas de economía social, que se crean con el objetivo de satisfacer las
 * Debe incluir siempre “Sociedad Cooperativa” o la abreviatura “S. Coop.”
 
 Tipos según grado:
+
 * Primer grado: mínimo 3 personas físicas.
 * Segundo grado: mínimo 2 personas jurídicas (por ejemplo, otras cooperativas).
 
 Principios de funcionamiento:
+
 * Puerta abierta: cualquier persona que cumpla los requisitos puede entrar como socio.
 * Democracia interna: cada socio tiene un voto, sin importar cuánto dinero haya aportado.
 * Cooperación entre cooperativas: se promueve el trabajo conjunto entre diferentes entidades del mismo tipo.
 * Educación y ayuda mutua: se fomenta la formación de los socios y la solidaridad entre ellos.
 
 Tipos de cooperativas:
+
 * De trabajo asociado: los socios son trabajadores que organizan su empleo colectivamente.
 * De producción: socios que son proveedores y fabrican de forma conjunta.
 * De consumo: socios que son clientes que se agrupan para consumir bienes o servicios a mejores condiciones.
