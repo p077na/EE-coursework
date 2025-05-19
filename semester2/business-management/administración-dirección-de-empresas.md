@@ -45,6 +45,8 @@ Así que se empezó a distinguir entre dos papeles:
 
 **Definición actual:** Empresario - persona física o jurídica que en nombre propio y de manera habitual, lleva a cabo una actividad económica orientada a la producción de bienes y servicios. Se encarga en planificación, organizaciín, control y toma de decisiones de la empresa.
 
+## El papel del empresario
+
 **Agente organizador**: el empresario organizador se ve como un agente económico cuya función principal es organizar, planificar y combinar los factores productivos con el objetivo de satisfacer las necesidades del sector de consumo. Es elegido por su capacidad y experiencia, no por ser el propietario del capital. Asume un riesgo profesional (relacionado con el éxito o fracaso de su gestión), pero no patrimonial (no arriesga su propio dinero necesariamente). Se convierte en la "mano visible" que guía y coordina el funcionamiento del sector productivo.
 
 Desde el siglo XIX, en las grandes empresas comenzó a separarse la figura del:
