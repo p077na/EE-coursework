@@ -154,8 +154,7 @@ Dificultades:
 
 - Requisitos mínimos de capital social inicial para su constitución en algunas sociedades
 
-
-1.	Sociedades Personalistas: Lo más importante son las personas que forman la sociedad, no solo el dinero que aportan
+1. Sociedades Personalistas: Lo más importante son las personas que forman la sociedad, no solo el dinero que aportan
 
 *	La gestión está en manos de los socios, que participan activamente.
 *	Los socios responden con su patrimonio personal si hay deudas.
