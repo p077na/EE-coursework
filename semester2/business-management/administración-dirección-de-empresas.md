@@ -8,7 +8,7 @@ Agente económica - persona física o juridica que participe en una actividad ec
 
 - Familias/Hogares: su función principal es consumir, también oferecen trabajo
 - Empresas: oferecen trabajo a familias y producen bienes y servicios
-- Sector público - instituciones del Estado que oferecen servicios públicos como salud, educación, y no buscan beneficios y regulan economía con leyes, impuestos
+- Sector público: instituciones del Estado que oferecen servicios públicos como salud, educación, y no buscan beneficios y regulan economía con leyes, impuestos
 
 Elementos que circulan entre agentes económicos son bienes, servicios y 3 principales factores de producción: *tierra, capital y trabajo*.
 
@@ -27,9 +27,9 @@ La empresa, entonces, es la encargada de usar los factores productivos (tierra, 
 **Elementos esenciales que forman una empresa**:
 
 1. Factores humanos: las personas que trabajan en la empresa
-2. Empresario: la persona que toma decisiones estratégicas, asume riesgos económicos, coordina los recursos productivos (trabajo, capital, materiales), busca lograr beneficios y la supervivencia de la empresa.
+2. Empresario: la persona que toma decisiones estratégicas, asume riesgos económicos, coordina los recursos productivos (trabajo, capital, materiales), busca lograr beneficios y la supervivencia de la empresa
 3. Factores materiales: los recursos físicos y tecnológicos necesarios para producir (instalaciones, maquinaria, equipos, materias primas)
-4. Relaciones con el entorno: la empresa está integrada en un entorno (económico, social, legal, ambiental, tecnológico), del que recibe influencias y al que también impacta. Clientes, proveedores, competencia, gobierno, etc.
+4. Relaciones con el entorno: la empresa está integrada en un entorno (económico, social, legal, ambiental, tecnológico), del que recibe influencias y al que también impacta. Clientes, proveedores, competencia, gobierno, etc
 5. Organización: la forma en la que la empresa estructura internamente sus recursos y procesos (jerarquías, departamentos, comunicación interna)
 6. Objetivos de la empresa: las metas que la empresa quiere alcanzar
 
@@ -83,7 +83,7 @@ El beneficio es por tanto la recompensa que percibe el empresario por su aportac
 
 **Empresario tomador de decisiones**: Aquí, el empresario es visto como la persona responsable de tomar decisiones racionales para que la empresa funcione bien. Analiza la situación, piensa con lógica, toma decisiones y guía a la empresa hacia metas claras (por ejemplo: reducir costes, lanzar un nuevo producto, mejorar calidad, etc.).
 
-**Empresario líder:** el empresario también tiene un papel más humano y estratégico, no solo técnico. Su función es: guiar a las personas (los recursos humanos) para que todos trabajen juntos hacia los objetivos de la empresa. Definir la vision: ¿que queremos lograr en el futuro? Definir la misión: ¿para qué existe la empresa?. Crear y mantener una cultura empresarial: los valores, las formas de trabajar, el ambiente interno.
+**Empresario líder:** El empresario también tiene un papel más humano y estratégico, no solo técnico. Su función es: guiar a las personas (los recursos humanos) para que todos trabajen juntos hacia los objetivos de la empresa. Definir la vision: ¿que queremos lograr en el futuro? Definir la misión: ¿para qué existe la empresa?. Crear y mantener una cultura empresarial: los valores, las formas de trabajar, el ambiente interno.
 
 ## Tipos de empresas
 
@@ -92,12 +92,12 @@ Los sectores económicos se dividen en tres categorías principales:
 
 Sector	| Actividades	| Ejemplo de empresas
 --------|-------------|--------------------
-Primario	| Obtención de recursos naturales y materias primas.	| Agricultura, pesca, minería, ganadería.
-Secundario	| Transformación de materias primas en productos terminados.	| Industria manufacturera, construcción, fábricas.
-Terciario	| Venta de bienes y prestación de servicios.	| Comercio, turismo, transporte, educación, sanidad.
+Primario	| Obtención de recursos naturales y materias primas	| Agricultura, pesca, minería, ganadería
+Secundario	| Transformación de materias primas en productos terminados	| Industria manufacturera, construcción, fábricas
+Terciario	| Venta de bienes y prestación de servicios	| Comercio, turismo, transporte, educación, sanidad
 
 ### Segun tamaño
-Esta clasificación se basa en tres indicadores principales: Número de empleados, Volumen de negocio (ingresos anuales), Balance general (valor total de activos y pasivos)
+Esta clasificación se basa en tres indicadores principales: Número de empleados, volumen de negocio (ingresos anuales), balance general (valor total de activos y pasivos)
 
 Tamaño	| Nº de trabajadores	| Volumen de negocio | Balance general
 --------|---------------------|--------------------|---------------
@@ -112,15 +112,15 @@ Tipo de propiedad |	Definición	| Ejemplo
 --------|---------------------|--------------------
 Privada | Buscan máximos beneficios, impulsan la innovación y la competencia. La empresa pertenece a personas físicas o jurídicas (individuos o empresas privadas)	| Apple, Tesla, Zara
 Pública | Priorizan el bienestar social antes que la rentabilidad	| Renfe (España), Correos
-Mixta | Intentan equilibrar beneficio y servicio público. Propiedad compartida entre el Estado y particulares. Puede tener objetivos económicos y sociales.	| REE (Red Eléctrica de España), AENA
+Mixta | Intentan equilibrar beneficio y servicio público. Propiedad compartida entre el Estado y particulares. Puede tener objetivos económicos y sociales	| REE (Red Eléctrica de España), AENA
 
 ### Según la Estructura Social de Producción
 
 Tipo de estructura	| Definición	
 --------|---------------------
-Artesanal: | Pequeñas empresas con producción manual o local. Mercado reducido, suelen vender en la misma comunidad.	Empresas pequeñas, familiares o individuales, con producción manual o tradicional. Se enfocan en mercados locales.	
-Economía Social: | Los empleados son dueños, por lo que tienen voz en las decisiones.  La gestión es democrática y compartida, independiente del capital aportado. Los beneficios se distribuyen en función del trabajo.	
-Capitalista: | Dueños e inversores buscan maximizar ganancias. Los empleados trabajan para la empresa, pero no necesariamente tienen parte en los beneficios.	Empresas donde el objetivo principal es el lucro. Los beneficios se reparten según el capital aportado y no necesariamente según el trabajo.
+Artesanal: | Pequeñas empresas con producción manual o local. Mercado reducido, suelen vender en la misma comunidad.	Empresas pequeñas, familiares o individuales, con producción manual o tradicional. Se enfocan en mercados locales
+Economía Social: | Los empleados son dueños, por lo que tienen voz en las decisiones.  La gestión es democrática y compartida, independiente del capital aportado. Los beneficios se distribuyen en función del trabajo
+Capitalista: | Dueños e inversores buscan maximizar ganancias. Los empleados trabajan para la empresa, pero no necesariamente tienen parte en los beneficios.	Empresas donde el objetivo principal es el lucro. Los beneficios se reparten según el capital aportado y no necesariamente según el trabajo
 
 ### Según Ámbito de actividad
 Local, Regional, Nacional, Internacional.
@@ -139,10 +139,10 @@ Empresa Individual - Propiedad de una sola persona física.
 
 Sociedad (Empresas con varios propietarios)
 
-• Formada por dos o más personas físicas y/o jurídicas
-• Aportaciones de sus socios al capital social de la empresa (bienes, derechos y/o dinero)
-• Según el tipo de forma societaria diferentes requisitos formales, derechos y deberes y forma de transmisión participaciones/acciones
-• Propiedad puede ser distinta de la dirección y control
+* Formada por dos o más personas físicas y/o jurídicas
+* Aportaciones de sus socios al capital social de la empresa (bienes, derechos y/o dinero)
+* Según el tipo de forma societaria diferentes requisitos formales, derechos y deberes y forma de transmisión participaciones/acciones
+* Propiedad puede ser distinta de la dirección y control
 
 Ventajas frente a las individuales:
 
@@ -152,27 +152,28 @@ Ventajas frente a las individuales:
 
 Dificultades:
 
--Requisitos mínimos de capital social inicial para su constitución en algunas sociedades
+- Requisitos mínimos de capital social inicial para su constitución en algunas sociedades
 
-1.	Sociedades Personalistas: Lo más importante son las personas que forman la sociedad, no solo el dinero que aportan.
+
+1.	Sociedades Personalistas: Lo más importante son las personas que forman la sociedad, no solo el dinero que aportan
 
 *	La gestión está en manos de los socios, que participan activamente.
 *	Los socios responden con su patrimonio personal si hay deudas.
 *	Son comunes en pequeños negocios familiares o profesionales.
 *	_Sociedad colectiva; Sociedad comanditaria_
 
-2.	Sociedades Capitalistas/Mercantiles: Aquí lo más importante no son los socios, sino el capital que aportan.
+2.	Sociedades Capitalistas/Mercantiles: Aquí lo más importante no son los socios, sino el capital que aportan
 
 *	Los socios no responden con su patrimonio personal, solo con lo que han invertido.
 *	Son las más utilizadas en grandes empresas.
 *	_Sociedades comanditaria por acciones; Sociedad de responsabilidad limitada (SL); Sociedad anónima (SA)_
 
-3.	Sociedades de Economía Social: No buscan solo maximizar beneficios, sino también satisfacer necesidades de los socios y de la sociedad.
+3.	Sociedades de Economía Social: No buscan solo maximizar beneficios, sino también satisfacer necesidades de los socios y de la sociedad
 * _Cooperativa_
 
 ## Tipos de Empresas 
 ### Empresa individual o Empresario individual (autónomo)
-Una sola persona crea y dirige un negocio en su propio nombre. No hay socios, no hay separación legal entre la persona y la empresa: tú eres la empresa.
+Una sola persona crea y dirige un negocio en su propio nombre. No hay socios, no hay separación legal entre la persona y la empresa
 
 * El empresario toma decisiones, dirige, y asumes riesgos.
 * No se necesita un capital mínimo para empezar.
