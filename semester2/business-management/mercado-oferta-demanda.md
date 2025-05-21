@@ -28,6 +28,7 @@ El tipo de economía se depende de tres preguntas: Qué, cómo, y  para quién p
 ### Economía Mixta
 
 **Definición:** Tanto el gobierno como las empresas privadas toman decisiones económicas. Existe un mercado libre, pero el gobierno interviene en sectores clave. Alemania, Francia, Canadá y China tienen economías mixtas.
+
 * Los bienes y servicios esenciales (como hospitales y carreteras) están disponibles para la mayoría de la población.
 * Se mantiene la libertad económica, pero hay programas sociales para ayudar a los más vulnerables.
 * Altos gastos en programas sociales pueden significar impuestos altos.
@@ -39,21 +40,22 @@ La mayoría de los países eligen una economía mixta porque: Si la salud estuvi
 En cualquier economía la cantidad y precio de los bienes y servicios dependen de dos fuerzas fundamentales:
 
 **Demanda**  → Lo que los consumidores quieren y pueden comprar.
+
 **Oferta**  → Lo que los productores quieren y pueden vender.
  
-**La curva de la demanda** muestra la relación entre el precio de un bien y la cantidad que los consumidores están dispuestos a comprar.
+### La curva de la demanda
+
+Muestra la relación entre el precio de un bien y la cantidad que los consumidores están dispuestos a comprar.
 
 Principio clave: Cuando el precio sube, la cantidad demandada baja (y viceversa). _Mientras más caro, menos quiero comprar._
 
-![Curva de demanda](curvaDemanda.jpg)
+### La curva de la oferta 
 
-**La curva de la oferta** muestra la relación entre el precio de un bien y la cantidad que los productores están dispuestos a vender.
+Muestra la relación entre el precio de un bien y la cantidad que los productores están dispuestos a vender.
 
 Principio clave: Cuando el precio sube, la cantidad ofrecida aumenta (y viceversa). _Mientras más caro, más quiero vender._
 
-![Curva de oferta](CurvaOferta.png)
-
-**El Punto de Equilibrio:** donde se cruzan oferta y demanda
+## El Punto de Equilibrio
 
 El punto de equilibrio es el precio donde la cantidad que los consumidores quieren comprar coincide exactamente con la cantidad que los productores quieren vender.
 
@@ -63,16 +65,12 @@ Importancia del equilibrio:
 * Se asignan eficientemente los recursos.
 * El mercado es estable.
 
-![Punto de equilibrio](puntoEq.png)
-
-
 **¿Qué pasa si el precio NO está en equilibrio?**
 
 Cuando los precios están por encima o por debajo del punto de equilibrio, se crean dos fenómenos:
+
 1. Exceso de oferta (cuando el precio es muy alto). Sucede cuando las empresas ponen precios demasiado elevados y los consumidores no compran lo suficiente.
 2. Escasez (cuando el precio es muy bajo) .Ocurre cuando los precios son tan bajos que la demanda es muy alta, pero las empresas no pueden producir lo suficiente.
-
-![Ley de la oferta y la demanda](Ley_de_la_oferta_y_la_d...nda.png)
 
 En un mercado libre, los precios tienden a moverse hacia el nivel de equilibrio — es decir, se autorregulan gracias a las fuerzas del mercado.
 
@@ -154,23 +152,27 @@ Así como la demanda depende de diferentes factores, la oferta también varía s
    - Precios altos (sin competencia).
    - Barreras de entrada: Difícil para nuevas empresas entrar.
 
-NO Monopsolio! Un monopsonio es un mercado donde existe un solo comprador y muchos vendedores. Este comprador tiene poder para imponer condiciones, especialmente el precio, porque los vendedores no tienen a quién más vender.
+     NO Monopsolio! Un monopsonio es un mercado donde existe un solo comprador y muchos vendedores. Este comprador tiene poder para imponer condiciones,
+     especialmente el precio, porque los vendedores no tienen a quién más vender.
+
 
 2. **Competencia monopolista** - un mercado con muchos vendedores, pero cada uno ofrece productos ligeramente diferentes. Características:
    - Muchos proveedores, muchos compradores.
    - Diferenciación del producto: Las empresas compiten a través de marca, calidad o características.
    - Los precios varían según la percepción de la marca.
+     
 
 3. **Oligopolio** - un mercado dominado por unas pocas empresas grandes que controlan la mayor parte de la oferta. Características:
    - Pocos vendedores, muchos compradores.
    - Altas barreras de entrada (nuevas empresas tienen dificultades para competir).
    - Las empresas a veces colaboran para fijar precios.
+     
 
 4. **Competencia perfecta** - un mercado con muchos compradores y vendedores, donde ninguno tiene control sobre el precio. Características:
    - Muchos proveedores, muchos compradores.
    - Productos idénticos (homogéneos).
    - Los precios son determinados únicamente por la oferta y la demanda.
-
+     
 ### Índice Herfindahl
 
 Podemos medir matemáticamente el control de mercado con el Índice Herfindahl-Hirschman (HHI):
@@ -199,7 +201,6 @@ Cada producto evoluciona con el tiempo, no permanece popular para siempre. Hay c
 3. Madurez → Mercado saturado, menos innovaciones.
 4. Declive  → Caída en ventas, aparecen alternativas más nuevas.
 
-![Ciclo de vida del producto](ciclo.jpg)
  
 ¿Por qué es importante? Las empresas necesitan innovar constantemente para sobrevivir a largo plazo.
 
