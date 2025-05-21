@@ -116,7 +116,7 @@ Si la demanda cambia poco, es inelástica.
 
 La elasticidad de la demanda puede tomar diferentes valores y clasificar los productos según la reacción de los consumidores ante cambios en el precio.
 
-1. Demanda Normal (Elasticidad ≈ 1) Aquí, la demanda cambia en proporción al precio.
+1. Demanda Normal (Elasticidad ~ 1) Aquí, la demanda cambia en proporción al precio.
 2. Demanda Elástica (Elasticidad > 1). La cantidad demandada cambia más que el precio.
 3. Demanda Inelástica o Rígida (Elasticidad < 1). La cantidad demandada cambia muy poco aunque el precio suba o baje.
 
