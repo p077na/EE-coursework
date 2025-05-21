@@ -45,13 +45,13 @@ En cualquier economía la cantidad y precio de los bienes y servicios dependen d
 
 Principio clave: Cuando el precio sube, la cantidad demandada baja (y viceversa). _Mientras más caro, menos quiero comprar._
 
-<img src="https://lh6.googleusercontent.com/LT4QLhvFoR_uXLx-5WbXIffBsSCEy3RdOJNG3oPI5cXh4EmKthlIkLQ9-VwCI9Gw-bqtIflImj7qNhCY6kBCdtUJONolKmA5TGC0_a7LV_r0gXOb5j1cvIFHB7uf46qJZ6xsp0ZTczTo_YKX6Kj1n8M" height="300">
+![Curva de demanda](curvaDemanda.jpg)
 
 **La curva de la oferta** muestra la relación entre el precio de un bien y la cantidad que los productores están dispuestos a vender.
 
 Principio clave: Cuando el precio sube, la cantidad ofrecida aumenta (y viceversa). _Mientras más caro, más quiero vender._
 
-<img src="https://contabilidadfinanzas.com/wp-content/uploads/2024/10/Curva_de_oferta.png" height="300">
+![Curva de oferta](CurvaOferta.png)
 
 **El Punto de Equilibrio:** donde se cruzan oferta y demanda
 
@@ -63,7 +63,7 @@ Importancia del equilibrio:
 * Se asignan eficientemente los recursos.
 * El mercado es estable.
 
-<img src="https://tribunaeconomica.com.mx/assets/media/fotos/publicacion/detalle/2022/02/20/punto.png" height="300">
+![Punto de equilibrio](puntoEq.png)
 
 
 **¿Qué pasa si el precio NO está en equilibrio?**
@@ -72,7 +72,7 @@ Cuando los precios están por encima o por debajo del punto de equilibrio, se cr
 1. Exceso de oferta (cuando el precio es muy alto). Sucede cuando las empresas ponen precios demasiado elevados y los consumidores no compran lo suficiente.
 2. Escasez (cuando el precio es muy bajo) .Ocurre cuando los precios son tan bajos que la demanda es muy alta, pero las empresas no pueden producir lo suficiente.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ley_de_la_oferta_y_la_demanda.png" width="300">
+![Ley de la oferta y la demanda](Ley_de_la_oferta_y_la_d...nda.png)
 
 En un mercado libre, los precios tienden a moverse hacia el nivel de equilibrio — es decir, se autorregulan gracias a las fuerzas del mercado.
 
@@ -154,7 +154,7 @@ Así como la demanda depende de diferentes factores, la oferta también varía s
    - Precios altos (sin competencia).
    - Barreras de entrada: Difícil para nuevas empresas entrar.
 
-≠ Monopsolio! Un monopsonio es un mercado donde existe un solo comprador y muchos vendedores. Este comprador tiene poder para imponer condiciones, especialmente el precio, porque los vendedores no tienen a quién más vender.
+NO Monopsolio! Un monopsonio es un mercado donde existe un solo comprador y muchos vendedores. Este comprador tiene poder para imponer condiciones, especialmente el precio, porque los vendedores no tienen a quién más vender.
 
 2. **Competencia monopolista** - un mercado con muchos vendedores, pero cada uno ofrece productos ligeramente diferentes. Características:
    - Muchos proveedores, muchos compradores.
@@ -175,7 +175,7 @@ Así como la demanda depende de diferentes factores, la oferta también varía s
 
 Podemos medir matemáticamente el control de mercado con el Índice Herfindahl-Hirschman (HHI):
 
-IH = s₁² + s₂² + ... + sₙ²
+IH = s1^2 + s2^2 + ... + sn^2
 
 - Si IH < 1500 → Mercado competitivo 
 - Si IH entre 1500 - 2500 → Zona de riesgo 
@@ -194,12 +194,13 @@ Conclusión: Cuantas más empresas haya en un mercado, mejor será la competenci
 
 Cada producto evoluciona con el tiempo, no permanece popular para siempre. Hay cuatro fases principales:
 
-	1. Introducción  → Producto nuevo, adopción lenta, costos altos.
-	2. Crecimiento → Aumento rápido de ventas, aparecen competidores.
-	3. Madurez → Mercado saturado, menos innovaciones.
-	4. Declive  → Caída en ventas, aparecen alternativas más nuevas.
+1. Introducción  → Producto nuevo, adopción lenta, costos altos.
+2. Crecimiento → Aumento rápido de ventas, aparecen competidores.
+3. Madurez → Mercado saturado, menos innovaciones.
+4. Declive  → Caída en ventas, aparecen alternativas más nuevas.
+
+![Ciclo de vida del producto](ciclo.jpg)
  
 ¿Por qué es importante? Las empresas necesitan innovar constantemente para sobrevivir a largo plazo.
 
-<img src="https://marketingafbarcelona.wordpress.com/wp-content/uploads/2018/09/09204-ciclo-de-vida-del-producto2b252812529.jpg" height="300">
 
