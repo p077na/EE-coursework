@@ -107,10 +107,7 @@ Interpretacion de lambda, la constante de proporcionalidad:
 - Se mide en tiempo^-1
 - Independiente de temperatura, presión o forma química
 
-Tiene dos interpretaciones:
-
-- Fracción por unidad de tiempo: Si lambda = 0,083 año^-1 , quiere decir que el 8,3 % de los núcleos se desintegra cada año.
-- Probabilidad individual: Cada átomo tiene una probabilidad de 0,083 de desintegrarse en un año. Esta probabilidad no cambia con el tiempo.
+Tiene dos interpretaciones: Fracción por unidad de tiempo: Si lambda = 0,083 año^-1 , quiere decir que el 8,3 % de los núcleos se desintegra cada año; Probabilidad individual: Cada átomo tiene una probabilidad de 0,083 de desintegrarse en un año. Esta probabilidad no cambia con el tiempo.
 
 ### Ley de desintegración radiactiva
 
