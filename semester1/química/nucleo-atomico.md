@@ -135,66 +135,199 @@ Otras veces, además de fotones, sigue desintegrándose con más emisiones de pa
 ### Tipos de procesos radiactivos
 
 ### Desintegracion alpha
+El atomo emite una particula alpha (el atomo de helio), que tiene 2 protones y 2 neutrones.
 
 .
 
 .
 
-.
+La relacion N/Z aumenta.
 
 ### Desintegracion beta -
+Un neutrón se convierte en un protón y emite un electrón y un antineutrino.
 
 .
 
 .
 
-.
+La relacion N/Z disminuye.
 
 ### Desintegracion beta +
+Un protón se convierte en un neutrón y emite un positrón y un neutrino.
 
 .
 
 .
 
-.
+La relacion N/Z aumenta.
 
 ### Captura electronica
+Un electrón de la capa K es capturado por un protón del núcleo, que se transforma en un neutrón, emitiendo neutrino y rayos X.
 
 .
 
 .
 
-.
+La relacion N/Z aumenta.
 
 ### Emision de neutrones
+Un atomo emite 1 o mas neutrones
 
 .
 
 .
 
-.
+La relacion N/Z disminuye.
 
 ### Desintegracion gamma
 
-.
+Un atomo emite un fotón de alta energía (rayos gamma). El núcleo pasa de un estado excitado a un estado más estable.
 
 .
 
 .
+La relacion N/Z no varia.
 
 ## Estudio de la radiactividad en relación con el tiempo
 
 ### Constante de desintegración radiactiva
 
-### Ley de desintegración radiactiva
+Todos los tipos de desintegración radiactiva obedecen una misma ley general:
+
+_La velocidad con la que disminuye el número de núcleos radiactivos es proporcional al número de núcleos que aún no se han desintegrado._
+
+La desintegración radiactiva es un proceso aleatorio y estadístico.
+
+Si tenemos solo un átomo radiactivo, no podemos predecir cuándo se desintegrará. Pero si tenemos muchos átomos (por ejemplo, un millón), su comportamiento sí se puede predecir estadísticamente.
+
+Interpretacion de λ, la constante de proporcionalidad:
+
+- Específica para cada núclido
+- Se mide en tiempo^-1
+- Independiente de temperatura, presión o forma química
+
+Tiene dos interpretaciones:
+- Fracción por unidad de tiempo: Si λ = 0,083 año^-1 , quiere decir que el 8,3 % de los núcleos se desintegra cada año.
+- Probabilidad individual: Cada átomo tiene una probabilidad de 0,083 de desintegrarse en un año. Esta probabilidad no cambia con el tiempo.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Si multiplicamos ambos lados por la masa atómica:
+
+.
+
+.
+
+Si un núclido es estable, no se desintegra nunca.
+
+Esto se expresa matemáticamente como:
+
+.
+
+.
+
+La representación gráfica de N frente a t:
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
 
 ### Actividad radiactiva
 
+La actividad radiactiva, denotada por a, mide la velocidad con la que se desintegran los núcleos radiactivos de una muestra. Se mide en desintegraciones/tiempo.
+
+.
+
+.
+
+Al comienzo del proceso (la actividad maxima):
+
+.
+
+.
+
+
 ### Período de semidesintegración
 
-### Vida media
+El período de semidesintegración, también llamado semivida y representado como t1/2 , es el tiempo que debe transcurrir para que el número de núcleos radiactivos de una muestra se reduzca a la mitad del número inicial.
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Interpretación:
+El período de semidesintegración es constante, independientemente del número de átomos que queden en la muestra. No importa si comenzamos con 1 gramo, 10 gramos o 1 millón de átomos: el tiempo necesario para que quede la mitad siempre es el mismo. Esto se debe a que la probabilidad de desintegración λ es constante para cada núcleo: los átomos no envejecen ni se vuelven más propensos a desintegrarse con el tiempo.
+
+
+La unidad de depende de la rapidez de desintegración del isótopo radiactivo: Si el núclido es muy radiactivo, como el polonio-218 (con desintegración alfa), se usa el segundo o minuto. Si el núclido es menos radiactivo, como el radio-226, se usan unidades más largas como días o años. Cualquier unidad de tiempo es válida, siempre que sea coherente con el valor de λ.
+
+
+Núclidos estables
+Los núclidos estables no se desintegran nunca.
+Esto se representa así:
+.
+
+.
+→ Es decir: un isótopo estable tiene una semivida infinita
+
+
+### Vida media (τ)
+La vida media es el promedio del tiempo que "vive" un núcleo radiactivo antes de desintegrarse.
+
+No todos los núcleos se desintegran al mismo tiempo. Algunos lo hacen rápidamente, otros tardan más. La vida media es el promedio estadístico de esos tiempos de vida, si observamos todos los núcleos de una muestra.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
 
 ### Reacciones Químicas vs. Reacciones Nucleares
+
 1. Reacciones Químicas
 
 - Las reacciones químicas implican cambios en la capa electrónica externa de los átomos, es decir, el intercambio o redistribución de electrones entre átomos.
