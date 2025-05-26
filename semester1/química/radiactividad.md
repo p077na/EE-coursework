@@ -7,7 +7,7 @@ Pero para Z > 83, ninguna proporción N/Z es suficiente para garantizar la estab
 
 Un núcleo inestable se estabiliza emitiendo partículas radiactivas:
 
-* Puede emitir partículas (como α, β⁻, β⁺, emision de neutrones)
+* Puede emitir partículas 
 * O puede emitir solo fotones (radiación gamma)
 
 Este proceso se llama desintegración radiactiva.
