@@ -2,25 +2,14 @@
 
 **La relación N/Z determina si un núcleo es estable o no.**
 
-Para núcleos con Z < 84 (excepto para Z=43 y Z=61) , hay al menos 1 isótopo con relacion N/Z adecuada para que sean estables.
-Pero para Z > 83, ninguna proporción N/Z es suficiente para garantizar la estabilidad → tarde o temprano se desintegran.
+Para núcleos con Z < 84 (excepto para Z=43 y Z=61) , hay al menos 1 isótopo con relacion N/Z adecuada para que sean estables. Pero para Z > 83, ninguna proporción N/Z es suficiente para garantizar la estabilidad → tarde o temprano se desintegran.
 
-Un núcleo inestable se estabiliza emitiendo partículas radiactivas:
+Un núcleo inestable se estabiliza via la desintegración radiactiva emitiendo partículas radiactivas:
 
-* Puede emitir partículas 
+* Puede emitir partículas (cambia la composición del núcleo, por lo tanto, el elemento)
 * O puede emitir solo fotones (radiación gamma)
 
-Este proceso se llama desintegración radiactiva. 
-
-La emisión de partículas cambia la composición del núcleo, por lo tanto, cambia de núclido y de elemento.
-
 Si el nuevo núcleo tras la desintegración es estable → el proceso termina. Si aún no es estable → el proceso continúa (serie de desintegraciones).
-
-Después de desintegrarse, un núcleo puede quedar en un estado excitado (con más energía de la normal). Emitirá uno o más fotones gamma para pasar a su estado fundamental (más estable).
-
-A veces solo emite fotones sin emitir partículas (una transición energética).
-
-Otras veces, además de fotones, sigue desintegrándose con más emisiones de partículas.
 
 **Radiactividad = desintegración espontánea de núcleos. Es la emisión espontánea de partículas o radiación desde el núcleo de ciertos núclidos inestables. Radiactividad es un mecanismo natural de estabilización nuclear.**
 
@@ -59,7 +48,6 @@ Un protón se convierte en un neutrón y emite un positrón y un neutrino.
 .
 
 La relacion N/Z aumenta.
-
 
 ### Captura electronica
 Un electrón de la capa K es capturado por un protón del núcleo, que se transforma en un neutrón, emitiendo neutrino y rayos X.
@@ -101,7 +89,7 @@ La desintegración radiactiva es un proceso aleatorio y estadístico.
 
 Si tenemos solo un átomo radiactivo, no podemos predecir cuándo se desintegrará. Pero si tenemos muchos átomos (por ejemplo, un millón), su comportamiento sí se puede predecir estadísticamente.
 
-Interpretacion de lambda, la constante de proporcionalidad:
+Characteristicas de lambda:
 
 - Específica para cada núclido
 - Se mide en tiempo^-1
@@ -110,12 +98,6 @@ Interpretacion de lambda, la constante de proporcionalidad:
 Tiene dos interpretaciones: Fracción por unidad de tiempo: Si lambda = 0,083 año^-1 , quiere decir que el 8,3 % de los núcleos se desintegra cada año; Probabilidad individual: Cada átomo tiene una probabilidad de 0,083 de desintegrarse en un año. Esta probabilidad no cambia con el tiempo.
 
 ### Ley de desintegración radiactiva
-
-.
-
-.
-
-.
 
 .
 
@@ -139,7 +121,7 @@ Si un núclido es estable, no se desintegra nunca. Esto se expresa matemáticame
 
 .
 
-![Representación del número de átomos que quedan sin desintegrar, N, frente al tiempo, t. ](figura1.png)
+![Representación del número de átomos que quedan sin desintegrar, N, frente al tiempo, t. ](figura1.png){ height=220px }
 
 ### Actividad radiactiva
 
@@ -165,7 +147,7 @@ Evolución de la actividad en el tiempo:
 
 .
 
-![Variación de la actividad radiactiva.](figura2.png)
+![Variación de la actividad radiactiva.](figura2.png){ height=250px }
 
 ### Las unidades de actividad 
 
