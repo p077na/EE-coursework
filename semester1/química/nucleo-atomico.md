@@ -98,7 +98,7 @@ Carta de Segrè: x-axis = Z, y-axis = N
 
 Al aumentar Z, en líneas generales, aumenta la relación N/Z. Este exceso de neutrones es necesario para estabilizar la repulsión culombiana entre los protones que tiende a romper el núcleo.
 
-![Carta de Segrè](carta.png){ width=60% }
+![Carta de Segrè](carta.png){ width=100% }
 
 ### Clasificacion de Nuclidos
 
