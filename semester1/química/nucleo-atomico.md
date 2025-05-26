@@ -1,8 +1,8 @@
 # El Núcleo Atómico
 
-**Por que estudiar química nuclear?**
-
 ## Introducción 
+
+**Por que estudiar química nuclear?**
 
 1. Para entender la contaminación ambiental: los isótopos radiactivos liberados por centrales nucleares, armamento, etc., son contaminantes muy peligrosos, porque pueden dañar el ADN y las células vivas, provocando mutaciones, cáncer y otras enfermedades.
 2. Para comprender la evolución química: la radiactividad jugó un papel crucial en el descubrimiento del núcleo atómico por Rutherford y en otras teorías modernas de la materia.
@@ -29,7 +29,7 @@ a) Protones
 
 - e = +1,6021 * 10^-19 C
 - m = 1,6725 * 10^-27 kg
-- = al número atómico (Z)
+- determina el número atómico (Z)
 
 b) Neutrones
 
@@ -43,6 +43,7 @@ A los protones y a los neutrones se les da el nombre genérico de **nucleones**,
 **A - número másico, protones + neutrones o A = Z + N**
 
 En la corteza de átomo se encontan los electrones.
+
 - e = -1,6021 * 10^-19 C
 - m = 9,1091 * 10^-31 kg
 
@@ -62,7 +63,7 @@ Los atomos pueden perder o ganar electrones. Un atom con carga se llama un ion m
 
 Un cation de +2 significa que un atom ha perdido 2 electrones.
 
-### Nuclido
+### Núclido
 
 Un núclido es un conjunto de átomos cuyos núcleos tienen exactamente la misma composición:
 
@@ -71,15 +72,15 @@ Un núclido es un conjunto de átomos cuyos núcleos tienen exactamente la misma
 - Por lo tanto, el mismo número másico A = Z + N
 
 Un nuclido se denota por:
-.
 
+.
 .
 
 Algunos nuclidos tienen nombre especial, como isotopos de hidrogeno
 
-- 1-hidrogeno = protio
-- 2-hidrogeno = deuterio, su nucleo = deuteron
-- 3-hidrogeno = tritio, su nucleo = triton
+- 1-hidrogeno - protio
+- 2-hidrogeno - deuterio, su nucleo - deuteron
+- 3-hidrogeno - tritio, su nucleo - triton
 
 Se conocen aproximadamente 1500 núclidos, de los cuales 340 son naturales y el resto son artificiales.
 
@@ -87,17 +88,17 @@ Artificiales: todos los núclidos con Z > 92, así como los de Z = 43 (tecnecio)
 
 Radiactivos: todos los núclidos con Z > 83, así como los de Z = 43 y Z = 61, son siempre radiactivos. Para los demás valores de Z, un núclido puede ser estable o inestable (radiactivo) según el valor de A.
 
-![Clasificación de núclidos](clasificacion.png){ width=60% }
+![Clasificación de núclidos](clasificacion.png){ width=40% }
 
-_Un núclido natural puede ser o no radiactivo (inestable). Por ejemplo, el carbono-12 y el carbono-14 son naturales, el primero es estable y el segundo radiactivo (inestable)._
+Un núclido natural puede ser o no radiactivo (inestable). Por ejemplo, el carbono-12 y el carbono-14 son naturales, el primero es estable y el segundo radiactivo (inestable).
 
-### Carta de Segre
+### Carta de Segrè
 
-Carta de Segre: x-axis = Z, y-axis = N
+Carta de Segrè: x-axis = Z, y-axis = N
 
 Al aumentar Z, en líneas generales, aumenta la relación N/Z. Este exceso de neutrones es necesario para estabilizar la repulsión culombiana entre los protones que tiende a romper el núcleo.
 
-![CartadeSegre](carta.png){ width=60% }
+![Carta de Segrè](carta.png){ width=60% }
 
 ### Clasificacion de Nuclidos
 
