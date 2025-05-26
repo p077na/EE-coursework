@@ -105,14 +105,14 @@ La desintegración radiactiva es un proceso aleatorio y estadístico.
 
 Si tenemos solo un átomo radiactivo, no podemos predecir cuándo se desintegrará. Pero si tenemos muchos átomos (por ejemplo, un millón), su comportamiento sí se puede predecir estadísticamente.
 
-Interpretacion de λ, la constante de proporcionalidad:
+Interpretacion de, la constante de proporcionalidad:
 
 - Específica para cada núclido
 - Se mide en tiempo^-1
 - Independiente de temperatura, presión o forma química
 
 Tiene dos interpretaciones:
-- Fracción por unidad de tiempo: Si λ = 0,083 año^-1 , quiere decir que el 8,3 % de los núcleos se desintegra cada año.
+- Fracción por unidad de tiempo: Si lambda = 0,083 año^-1 , quiere decir que el 8,3 % de los núcleos se desintegra cada año.
 - Probabilidad individual: Cada átomo tiene una probabilidad de 0,083 de desintegrarse en un año. Esta probabilidad no cambia con el tiempo.
 
 ### Ley de desintegración radiactiva
