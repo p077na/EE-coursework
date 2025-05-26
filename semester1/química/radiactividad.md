@@ -10,7 +10,7 @@ Un núcleo inestable se estabiliza emitiendo partículas radiactivas:
 * Puede emitir partículas 
 * O puede emitir solo fotones (radiación gamma)
 
-Este proceso se llama desintegración radiactiva.
+Este proceso se llama desintegración radiactiva. 
 
 La emisión de partículas cambia la composición del núcleo, por lo tanto, cambia de núclido y de elemento.
 
@@ -18,7 +18,7 @@ Si el nuevo núcleo tras la desintegración es estable → el proceso termina. S
 
 Después de desintegrarse, un núcleo puede quedar en un estado excitado (con más energía de la normal). Emitirá uno o más fotones gamma para pasar a su estado fundamental (más estable).
 
-A veces solo emite fotones sin emitir partículas (es una transición energética).
+A veces solo emite fotones sin emitir partículas (una transición energética).
 
 Otras veces, además de fotones, sigue desintegrándose con más emisiones de partículas.
 
@@ -89,29 +89,26 @@ Un atomo emite un fotón de alta energía (rayos gamma). El núcleo pasa de un e
 
 La relacion N/Z no varia.
 
-## Resumen de los diferentes tipos de radiactividad
-
 ![Resumen de las características de los diferentes tipos de radiactividad estudiados y representación esquemática de los diferentes tipos de radiactividad.](resumen.png)
 
 ## Estudio de la radiactividad en relación con el tiempo
 
 ### Constante de desintegración radiactiva
 
-Todos los tipos de desintegración radiactiva obedecen una misma ley general:
-
-_La velocidad con la que disminuye el número de núcleos radiactivos es proporcional al número de núcleos que aún no se han desintegrado._
+Todos los tipos de desintegración radiactiva obedecen una misma ley general: _La velocidad con la que disminuye el número de núcleos radiactivos es proporcional al número de núcleos que aún no se han desintegrado._
 
 La desintegración radiactiva es un proceso aleatorio y estadístico.
 
 Si tenemos solo un átomo radiactivo, no podemos predecir cuándo se desintegrará. Pero si tenemos muchos átomos (por ejemplo, un millón), su comportamiento sí se puede predecir estadísticamente.
 
-Interpretacion de, la constante de proporcionalidad:
+Interpretacion de lambda, la constante de proporcionalidad:
 
 - Específica para cada núclido
 - Se mide en tiempo^-1
 - Independiente de temperatura, presión o forma química
 
 Tiene dos interpretaciones:
+
 - Fracción por unidad de tiempo: Si lambda = 0,083 año^-1 , quiere decir que el 8,3 % de los núcleos se desintegra cada año.
 - Probabilidad individual: Cada átomo tiene una probabilidad de 0,083 de desintegrarse en un año. Esta probabilidad no cambia con el tiempo.
 
@@ -145,8 +142,6 @@ Si un núclido es estable, no se desintegra nunca. Esto se expresa matemáticame
 
 .
 
-La representación gráfica de N frente a t:
-
 ![Representación del número de átomos que quedan sin desintegrar, N, frente al tiempo, t. ](figura1.png)
 
 ### Actividad radiactiva
@@ -173,18 +168,15 @@ Evolución de la actividad en el tiempo:
 
 .
 
-
-La representación gráfica:
-
 ![Variación de la actividad radiactiva.](figura2.png)
 
 ### Las unidades de actividad 
 
 1 Becquerel (Bq) = 1 desintegración / segundo.
 
-1 Curio (Ci) =  3.7 × 10¹⁰ desintegraciones / segundo.
+1 Curio (Ci) =  3.7 x 10^10 desintegraciones / segundo.
 
-1 Rutherford (rd) =  1 × 10⁶ desintegraciones / segundo.
+1 Rutherford (rd) =  1 x 10^6 desintegraciones / segundo.
 
 ### Período de semidesintegración
 
@@ -205,9 +197,9 @@ El período de semidesintegración, también llamado semivida y representado com
 
 .
 
-**Interpretación:** El período de semidesintegración es constante, independientemente del número de átomos que queden en la muestra. No importa si comenzamos con 1 gramo, 10 gramos o 1 millón de átomos: el tiempo necesario para que quede la mitad siempre es el mismo. Esto se debe a que la probabilidad de desintegración λ es constante para cada núcleo: los átomos no envejecen ni se vuelven más propensos a desintegrarse con el tiempo.
+**Interpretación:** El período de semidesintegración es constante, independientemente del número de átomos que queden en la muestra. No importa si comenzamos con 1 gramo, 10 gramos o 1 millón de átomos: el tiempo necesario para que quede la mitad siempre es el mismo. Esto se debe a que la probabilidad de desintegración lambda es constante para cada núcleo: los átomos no envejecen ni se vuelven más propensos a desintegrarse con el tiempo.
 
-La unidad depende de la rapidez de desintegración del isótopo radiactivo: Si el núclido es muy radiactivo, como el polonio-218 (con desintegración alfa), se usa el segundo o minuto. Si el núclido es menos radiactivo, como el radio-226, se usan unidades más largas como días o años. Cualquier unidad de tiempo es válida, siempre que sea coherente con el valor de λ.
+La unidad depende de la rapidez de desintegración del isótopo radiactivo: Si el núclido es muy radiactivo, como el polonio-218 (con desintegración alfa), se usa el segundo o minuto. Si el núclido es menos radiactivo, como el radio-226, se usan unidades más largas como días o años. Cualquier unidad de tiempo es válida, siempre que sea coherente con el valor de lambda.
 
 Los núclidos estables no se desintegran nunca.
 Esto se representa así:
@@ -216,7 +208,7 @@ Esto se representa así:
 .
 → Es decir: un isótopo estable tiene una semivida infinita
 
-### Vida media (τ)
+### Vida media (tau)
 La vida media es el promedio del tiempo que "vive" un núcleo radiactivo antes de desintegrarse.
 
 No todos los núcleos se desintegran al mismo tiempo. Algunos lo hacen rápidamente, otros tardan más. La vida media es el promedio estadístico de esos tiempos de vida, si observamos todos los núcleos de una muestra.
