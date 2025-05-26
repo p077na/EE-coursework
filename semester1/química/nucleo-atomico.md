@@ -88,7 +88,7 @@ Artificiales: todos los núclidos con Z > 92, así como los de Z = 43 (tecnecio)
 
 Radiactivos: todos los núclidos con Z > 83, así como los de Z = 43 y Z = 61, son siempre radiactivos. Para los demás valores de Z, un núclido puede ser estable o inestable (radiactivo) según el valor de A.
 
-![Clasificación de núclidos](clasificacion.png){ width=40% }
+![Clasificación de núclidos](clasificacion.png){ width=60% }
 
 Un núclido natural puede ser o no radiactivo (inestable). Por ejemplo, el carbono-12 y el carbono-14 son naturales, el primero es estable y el segundo radiactivo (inestable).
 
