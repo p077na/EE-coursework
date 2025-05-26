@@ -97,7 +97,7 @@ Carta de Segre: x-axis = Z, y-axis = N
 
 Al aumentar Z, en líneas generales, aumenta la relación N/Z. Este exceso de neutrones es necesario para estabilizar la repulsión culombiana entre los protones que tiende a romper el núcleo.
 
-![carta-segre](https://ch302.cm.utexas.edu/svg302/Table_isotopes_en.svg)
+![CartadeSegre](carta.png){ width=60% }
 
 ### Clasificacion de Nuclidos
 
