@@ -80,7 +80,7 @@ Los núcleos tienen carga positiva, por lo que se repelen fuertemente (fuerza de
 
 Se puede conseguir esta energía de dos maneras:
 
-- Altas temperaturas (fusión termonuclear): de 10⁷ a 10⁹ grados
+- Altas temperaturas (fusión termonuclear): de 10^7 a 10^9 grados
 - Aceleradores de partículas. Se acelera un núcleo contra otro. Es útil en investigación, pero no viable para generar energía a gran escala
 
 Ventajas de la fusión nuclear
