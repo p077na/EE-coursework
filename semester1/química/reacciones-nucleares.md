@@ -74,6 +74,7 @@ Cuando dos núcleos se fusionan, parte de su masa desaparece
 
 - Esa masa se convierte en energía según la fórmula de Einstein:  E = mc^2
 - Esto se llama energía de reacción, y se denota como Q
+
 Aunque cada reacción de fusión libera menos energía que una de fisión, por cada kilogramo de combustible, la fusión libera mucha más energía total. Esto se debe a que los núcleos ligeros pesan poco, por lo tanto, caben muchos más en la misma masa.
 
 Los núcleos tienen carga positiva, por lo que se repelen fuertemente (fuerza de Coulomb). Para que se acerquen lo suficiente como para fusionarse, se necesita que tengan mucha energía cinética.
@@ -84,15 +85,14 @@ Se puede conseguir esta energía de dos maneras:
 - Aceleradores de partículas. Se acelera un núcleo contra otro. Es útil en investigación, pero no viable para generar energía a gran escala
 
 Ventajas de la fusión nuclear
+
 - Combustible abundante: usa isótopos del hidrógeno, que se encuentran en el agua (deuterio y tritio).
 - Alta eficiencia energética por unidad de masa.
 - No genera residuos radiactivos de larga vida como la fisión.
 
 Desventaja principal
-La temperatura necesaria es extrema, y no existen materiales capaces de resistirla fácilmente. A esas temperaturas, la materia se convierte en plasma, un gas muy caliente y cargado eléctricamente, en el que los electrones se separan de los núcleos. El problema es que este plasma es tan caliente y energético que no puede tocar ningún material sólido (lo destruiría al instante). Por eso, se utilizan campos magnéticos (en dispositivos como los tokamaks o los stellarators) para mantener el plasma suspendido y aislado de las paredes del reactor. Pero controlar el plasma el tiempo suficiente y mantenerlo estable para que ocurran suficientes reacciones de fusión es extremadamente difícil, y esa es una de las principales razones por las que la energía de fusión todavía está en desarrollo.
 
-
-Sin embargo, hay proyectos avanzados como el ITER en Francia que buscan lograr fusión controlada como fuente limpia de energía para el futuro.
+La temperatura necesaria es extrema, y no existen materiales capaces de resistirla fácilmente. A esas temperaturas, la materia se convierte en plasma, un gas muy caliente y cargado eléctricamente, en el que los electrones se separan de los núcleos. El problema es que este plasma es tan caliente que no puede tocar ningún material sólido (lo destruiría al instante). Por eso, se utilizan campos magnéticos para mantener el plasma suspendido y aislado de las paredes del reactor. Pero controlar el plasma el tiempo suficiente y mantenerlo estable para que ocurran suficientes reacciones de fusión es extremadamente difícil, y esa es una de las principales razones por las que la energía de fusión todavía está en desarrollo. Sin embargo, hay proyectos avanzados como el ITER en Francia que buscan lograr fusión controlada como fuente limpia de energía para el futuro.
 
 ## Reacciones Químicas vs. Reacciones Nucleares
 
